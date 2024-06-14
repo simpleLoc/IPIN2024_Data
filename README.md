@@ -1,0 +1,1 @@
+Repository containing data and animation plots of the filter runs used in the evaluation of the paper at IPIN 2024 with the title: "Refinement of Sparsely Tagged Ground Truth Paths Using PDR and Particle Filter Smoothing"
