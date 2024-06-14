@@ -1,0 +1,140 @@
+<map width="70" depth="50">
+    <floors>
+        <floor atHeight="7.4000001" height="3.4000001" name="2. Stock" groupId="0">
+            <gtpoints>
+                <gtpoint id="113" x="44" y="42" z="2.55"/>
+                <gtpoint id="114" x="46" y="42" z="1.7"/>
+                <gtpoint id="115" x="48" y="42" z="0.85000002"/>
+                <gtpoint id="116" x="50" y="42" z="0"/>
+                <gtpoint id="117" x="50" y="44" z="0"/>
+                <gtpoint id="118" x="48" y="44" z="0"/>
+                <gtpoint id="119" x="46" y="44" z="0"/>
+                <gtpoint id="120" x="44" y="43" z="0"/>
+                <gtpoint id="121" x="42" y="43" z="0"/>
+                <gtpoint id="122" x="40" y="44" z="0"/>
+                <gtpoint id="123" x="38" y="44" z="0"/>
+                <gtpoint id="124" x="36" y="44" z="0"/>
+                <gtpoint id="125" x="36" y="42" z="0"/>
+                <gtpoint id="126" x="36" y="40" z="0"/>
+                <gtpoint id="127" x="34" y="40" z="0"/>
+                <gtpoint id="128" x="32" y="40" z="0"/>
+                <gtpoint id="129" x="30" y="42" z="0"/>
+                <gtpoint id="130" x="28" y="42" z="0"/>
+                <gtpoint id="131" x="26" y="42" z="0"/>
+                <gtpoint id="132" x="24" y="44" z="0"/>
+                <gtpoint id="133" x="24" y="46" z="0"/>
+                <gtpoint id="134" x="24" y="48" z="0"/>
+                <gtpoint id="135" x="24" y="50" z="0"/>
+                <gtpoint id="136" x="22" y="44" z="0"/>
+                <gtpoint id="137" x="20" y="44" z="0"/>
+                <gtpoint id="138" x="20" y="43" z="0"/>
+                <gtpoint id="139" x="22" y="43" z="0"/>
+                <gtpoint id="140" x="24" y="43" z="0"/>
+                <gtpoint id="141" x="24" y="41" z="0"/>
+                <gtpoint id="142" x="22" y="40" z="0"/>
+                <gtpoint id="143" x="20" y="40" z="0"/>
+                <gtpoint id="144" x="18" y="40" z="0"/>
+                <gtpoint id="145" x="16" y="40" z="0"/>
+                <gtpoint id="146" x="14" y="40" z="0"/>
+                <gtpoint id="147" x="13" y="39" z="0"/>
+                <gtpoint id="148" x="13" y="37" z="1.02"/>
+                <gtpoint id="149" x="13" y="35" z="1.87"/>
+                <gtpoint id="150" x="13" y="33" z="2.72"/>
+            </gtpoints>
+        </floor>
+        <floor atHeight="10.8" height="3.4000001" name="3. Stock" groupId="0">
+            <gtpoints>
+                <gtpoint id="100" x="64" y="44" z="0"/>
+                <gtpoint id="101" x="62" y="44" z="0"/>
+                <gtpoint id="102" x="60" y="44" z="0"/>
+                <gtpoint id="103" x="58" y="44" z="0"/>
+                <gtpoint id="104" x="56" y="44" z="0"/>
+                <gtpoint id="105" x="54" y="44" z="0"/>
+                <gtpoint id="106" x="52" y="42" z="0"/>
+                <gtpoint id="107" x="50" y="40" z="0"/>
+                <gtpoint id="108" x="48" y="40" z="0"/>
+                <gtpoint id="109" x="46" y="40" z="0"/>
+                <gtpoint id="110" x="44" y="40" z="0"/>
+                <gtpoint id="111" x="42" y="40" z="0"/>
+                <gtpoint id="112" x="42" y="42" z="0"/>
+                <gtpoint id="151" x="13" y="31" z="0"/>
+                <gtpoint id="152" x="11" y="29" z="0"/>
+                <gtpoint id="153" x="13" y="29" z="0"/>
+                <gtpoint id="154" x="13" y="27" z="0"/>
+                <gtpoint id="155" x="11" y="27" z="0"/>
+                <gtpoint id="156" x="11" y="24" z="0"/>
+                <gtpoint id="157" x="13" y="22" z="0"/>
+                <gtpoint id="158" x="13" y="20" z="0"/>
+                <gtpoint id="159" x="15" y="18" z="0"/>
+            </gtpoints>
+        </floor>
+    </floors>
+    <gtpaths>
+        <gtpath name="Path0">
+            <gtpointref id="100"/>
+            <gtpointref id="100"/>
+            <gtpointref id="101"/>
+            <gtpointref id="102"/>
+            <gtpointref id="103"/>
+            <gtpointref id="104"/>
+            <gtpointref id="105"/>
+            <gtpointref id="106"/>
+            <gtpointref id="107"/>
+            <gtpointref id="108"/>
+            <gtpointref id="109"/>
+            <gtpointref id="110"/>
+            <gtpointref id="111"/>
+            <gtpointref id="112"/>
+            <gtpointref id="113"/>
+            <gtpointref id="114"/>
+            <gtpointref id="115"/>
+            <gtpointref id="116"/>
+            <gtpointref id="117"/>
+            <gtpointref id="118"/>
+            <gtpointref id="119"/>
+            <gtpointref id="120"/>
+            <gtpointref id="121"/>
+            <gtpointref id="122"/>
+            <gtpointref id="123"/>
+            <gtpointref id="124"/>
+            <gtpointref id="125"/>
+            <gtpointref id="126"/>
+            <gtpointref id="127"/>
+            <gtpointref id="128"/>
+            <gtpointref id="129"/>
+            <gtpointref id="130"/>
+            <gtpointref id="131"/>
+            <gtpointref id="132"/>
+            <gtpointref id="133"/>
+            <gtpointref id="134"/>
+            <gtpointref id="135"/>
+            <gtpointref id="134"/>
+            <gtpointref id="133"/>
+            <gtpointref id="132"/>
+            <gtpointref id="136"/>
+            <gtpointref id="137"/>
+            <gtpointref id="138"/>
+            <gtpointref id="139"/>
+            <gtpointref id="140"/>
+            <gtpointref id="141"/>
+            <gtpointref id="142"/>
+            <gtpointref id="143"/>
+            <gtpointref id="144"/>
+            <gtpointref id="145"/>
+            <gtpointref id="146"/>
+            <gtpointref id="147"/>
+            <gtpointref id="148"/>
+            <gtpointref id="149"/>
+            <gtpointref id="150"/>
+            <gtpointref id="151"/>
+            <gtpointref id="152"/>
+            <gtpointref id="153"/>
+            <gtpointref id="154"/>
+            <gtpointref id="155"/>
+            <gtpointref id="156"/>
+            <gtpointref id="157"/>
+            <gtpointref id="158"/>
+            <gtpointref id="159"/>
+        </gtpath>
+    </gtpaths>
+</map>
