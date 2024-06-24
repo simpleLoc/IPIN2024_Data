@@ -1,0 +1,586 @@
+<map width="70" depth="50">
+    <floors>
+        <floor atHeight="7.4000001" height="3.4000001" name="2. Stock" groupId="0">
+            <outline>
+                <polygon name="base" method="0" outdoor="false">
+                    <point x="1.2" y="43.100002"/>
+                    <point x="0.60000002" y="43.100002"/>
+                    <point x="0.60000002" y="50.200001"/>
+                    <point x="76.900002" y="50.200001"/>
+                    <point x="76.900002" y="41.299999"/>
+                    <point x="68.099998" y="41.299999"/>
+                    <point x="68.099998" y="31.6"/>
+                    <point x="18" y="31.6"/>
+                    <point x="18" y="0.69999999"/>
+                    <point x="1.2" y="0.69999999"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="52.400002" y="40.799999"/>
+                    <point x="59.100002" y="40.799999"/>
+                    <point x="59.100002" y="42.799999"/>
+                    <point x="52.400002" y="42.799999"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="12.1" y="40.799999"/>
+                    <point x="22.9" y="40.799999"/>
+                    <point x="22.9" y="42.799999"/>
+                    <point x="12.1" y="42.799999"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="14.5" y="6.2000003"/>
+                    <point x="18" y="6.2000003"/>
+                    <point x="18" y="11"/>
+                    <point x="14.5" y="11"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="12.1" y="46.600002"/>
+                    <point x="17.1" y="46.600002"/>
+                    <point x="17.1" y="50.200001"/>
+                    <point x="12.1" y="50.200001"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="61.5" y="46.600002"/>
+                    <point x="66.300003" y="46.600002"/>
+                    <point x="66.300003" y="50.200001"/>
+                    <point x="61.5" y="50.200001"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="12.3" y="31.6"/>
+                    <point x="13.900001" y="31.6"/>
+                    <point x="13.900001" y="39.299999"/>
+                    <point x="12.3" y="39.299999"/>
+                </polygon>
+                <polygon name="luft" method="1" outdoor="false">
+                    <point x="10" y="40.799999"/>
+                    <point x="1.2" y="40.799999"/>
+                    <point x="1.2" y="42.799999"/>
+                    <point x="10" y="42.799999"/>
+                </polygon>
+            </outline>
+            <regions/>
+            <obstacles>
+                <wall material="6" type="1" x1="1.2" y1="42.799999" x2="1.2" y2="0.69999999" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="10" y1="0.69999999" x2="10" y2="24.1" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.95299143" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.32905987" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.23504275" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="10" y1="7.2000003" x2="1.2" y2="7.2000003" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="10" y1="25.9" x2="10" y2="40.799999" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.92991221" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.13133337" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="1.2" y1="40.799999" x2="10" y2="40.799999" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="10" y1="25.9" x2="8.1999998" y2="25.9" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.77777749" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="8.1999998" y1="25.9" x2="1.2" y2="25.9" thickness="0.2">
+                    <door type="1" lock="2" material="2" x01="0.87212861" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="10" y1="24.1" x2="1.2" y2="24.1" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="5.0999999" y1="43.100002" x2="0.60000002" y2="43.100002" thickness="0.30000001"/>
+                <wall material="3" type="1" x1="10.2" y1="44.5" x2="3.9000001" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.52380949" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.11111109" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="3.9000001" y1="44.5" x2="3.9000001" y2="50.200001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.81355965" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="7.5" y1="50.200001" x2="7.5" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.18644036" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="10.5" y1="48.100002" x2="10.5" y2="44.5" thickness="0.30000001"/>
+                <wall material="1" type="1" x1="10.5" y1="49.100002" x2="10.5" y2="50.200001" thickness="0.25"/>
+                <wall material="1" type="1" x1="0.60000002" y1="50.200001" x2="0.60000002" y2="43.100002" thickness="0.30000001"/>
+                <wall material="1" type="1" x1="1.2" y1="0.69999999" x2="18" y2="0.69999999" thickness="0.15000001"/>
+                <wall material="6" type="1" x1="18" y1="0.69999999" x2="18" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="18" y1="25.9" x2="12.2" y2="25.9" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="12.2" y1="12.7" x2="18" y2="12.7" thickness="0.25"/>
+                <wall material="1" type="1" x1="12.2" y1="11" x2="14.400001" y2="11" thickness="0.25"/>
+                <wall material="1" type="1" x1="14.400001" y1="11" x2="14.400001" y2="6.2000003" thickness="0.25"/>
+                <wall material="1" type="1" x1="12.2" y1="6.2000003" x2="18" y2="6.2000003" thickness="0.25"/>
+                <wall material="1" type="1" x1="12.2" y1="12.7" x2="12.2" y2="6.2000003" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.030303001" width="1.3" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="12.2" y1="13" x2="12.2" y2="25.9" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.068702258" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.95419854" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="6" type="1" x1="18" y1="31.6" x2="76.900002" y2="31.6" thickness="0.15000001"/>
+                <wall material="6" type="1" x1="76.900002" y1="31.6" x2="76.900002" y2="50.200001" thickness="0.15000001"/>
+                <wall material="6" type="1" x1="76.900002" y1="50.200001" x2="0.60000002" y2="50.200001" thickness="0.15000001"/>
+                <line material="5" type="3" x1="52.400002" y1="42.799999" x2="59.100002" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="59.100002" y1="42.799999" x2="59.100002" y2="40.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="59.100002" y1="40.799999" x2="52.400002" y2="40.799999" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="4.3000002" y1="25.9" x2="4.3000002" y2="24.1" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="8.1999998" y1="24.1" x2="8.1999998" y2="25.9" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.88888943" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="10.5" y1="44.5" x2="17.1" y2="44.5" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.59090918" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.93939406" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.030303003" width="1.3" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="12.3" y1="46.600002" x2="12.3" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="12.3" y1="46.600002" x2="17.1" y2="46.600002" thickness="0.25"/>
+                <wall material="1" type="1" x1="14.7" y1="44.5" x2="14.7" y2="46.600002" thickness="0.25"/>
+                <wall material="1" type="1" x1="17.1" y1="50.200001" x2="17.1" y2="44.5" thickness="0.25"/>
+                <wall material="3" type="1" x1="17.4" y1="44.5" x2="23" y2="44.5" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="23" y1="44.5" x2="23" y2="50.200001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.89473718" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="25.5" y1="50.200001" x2="25.5" y2="44.5" thickness="0.30000001"/>
+                <wall material="3" type="1" x1="25.5" y1="44.5" x2="50.700001" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.11507935" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.21349037" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.28968251" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.40476194" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.51984131" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.63888896" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.73746985" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.82936513" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.88095617" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="29.1" y1="44.5" x2="29.1" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="31.5" y1="44.5" x2="31.5" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="33.900002" y1="44.5" x2="33.900002" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="36.299999" y1="44.5" x2="36.299999" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="39.299999" y1="44.5" x2="39.299999" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="42.299999" y1="44.5" x2="42.299999" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="44.600002" y1="44.5" x2="44.600002" y2="50.200001" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="50.700001" y1="44.5" x2="50.700001" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="51.100002" y1="50.200001" x2="51.100002" y2="44.5" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="51.100002" y1="44.5" x2="61" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.93939412" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.4949494" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="56.600002" y1="44.5" x2="56.600002" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="61" y1="44.5" x2="61" y2="50.200001" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="61.5" y1="50.200001" x2="61.5" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="61.5" y1="44.5" x2="64.400002" y2="44.5" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.86206847" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="61.5" y1="46.600002" x2="66.400002" y2="46.600002" thickness="0.25"/>
+                <wall material="1" type="1" x1="66.400002" y1="46.600002" x2="66.400002" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="64.400002" y1="46.600002" x2="64.400002" y2="44.5" thickness="0.25"/>
+                <wall material="3" type="1" x1="70.5" y1="44.5" x2="70.5" y2="50.200001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.8308323" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="68.099998" y1="48.400002" x2="68.099998" y2="44.5" thickness="0.25"/>
+                <wall material="3" type="1" x1="76.900002" y1="44.5" x2="68.400002" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.82352942" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.65882331" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <line material="5" type="3" x1="12.1" y1="42.799999" x2="12.1" y2="40.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="12.1" y1="40.799999" x2="22.9" y2="40.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="22.9" y1="40.799999" x2="22.9" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="22.9" y1="42.799999" x2="12.1" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="12.3" y1="39.299999" x2="12.3" y2="31.6" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="13.900001" y1="39.299999" x2="13.900001" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="13.900001" y1="39.299999" x2="68.099998" y2="39.299999" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.97601473" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.79966301" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.70069867" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.56931776" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.5523302" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.42435426" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.38229868" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.35549262" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.31180814" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.010910105" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="25.5" y1="39.299999" x2="25.5" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.15584378" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="31.5" y1="39.299999" x2="31.5" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.15584378" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="33.900002" y1="39.299999" x2="33.900002" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="36.299999" y1="39.299999" x2="36.299999" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.15584378" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="42.299999" y1="39.299999" x2="42.299999" y2="31.6" thickness="0.25"/>
+                <wall material="1" type="1" x1="42.299999" y1="34.900002" x2="44.100002" y2="34.900002" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.83333194" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="44.100002" y1="31.6" x2="44.100002" y2="39.299999" thickness="0.25"/>
+                <wall material="3" type="1" x1="50.600002" y1="39.299999" x2="50.600002" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="56" y1="39.299999" x2="56" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="47.100002" y1="50.200001" x2="47.100002" y2="44.5" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="1.2" y1="15.400001" x2="10" y2="15.400001" thickness="0.15000001"/>
+                <line material="5" type="3" x1="68.099998" y1="41.299999" x2="76.900002" y2="41.299999" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="68.099998" y1="39.299999" x2="68.099998" y2="31.6" thickness="0.15000001"/>
+                <line material="5" type="3" x1="68.099998" y1="41.299999" x2="68.099998" y2="39.299999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="5.0999999" y1="42.799999" x2="10" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="10" y1="40.799999" x2="10" y2="42.799999" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="12.2" y1="0.69999999" x2="12.2" y2="5.9000001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.13643573" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <door material="4" type="1" x1="10" y1="25.9" x2="11" y2="25.9" height="2.0999999" swap="false"/>
+                <wall material="4" type="1" x1="11" y1="25.9" x2="12.2" y2="25.9" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="13.900001" y1="31.6" x2="18" y2="31.6" thickness="0.2"/>
+                <object file="expedit2" x="54" y="47.400002" z="0"/>
+                <wall material="3" type="1" x1="10.2" y1="44.5" x2="10.2" y2="50.200001" thickness="0.2">
+                    <door type="1" lock="2" material="2" x01="0.81355965" width="1" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="17.4" y1="44.5" x2="17.4" y2="50.200001" thickness="0.2"/>
+                <wall material="3" type="1" x1="5.0999999" y1="42.799999" x2="5.0999999" y2="44.5" thickness="0.2">
+                    <door type="1" lock="2" material="2" x01="0.35294235" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="25" y1="44.5" x2="25" y2="50.200001" thickness="0.2"/>
+                <wall material="1" type="1" x1="66.400002" y1="44.5" x2="68.099998" y2="44.5" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.8823545" width="1.3" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="12.2" y1="5.9000001" x2="18" y2="5.9000001" thickness="0.2"/>
+                <wall material="3" type="1" x1="12.2" y1="13" x2="18" y2="13" thickness="0.2"/>
+                <wall material="3" type="1" x1="68.400002" y1="44.5" x2="68.400002" y2="50.200001" thickness="0.2">
+                    <door type="1" lock="2" material="2" x01="0.84210497" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="68.099998" y1="50.200001" x2="68.099998" y2="49.299999" thickness="0.25"/>
+            </obstacles>
+            <gtpoints>
+                <gtpoint id="113" x="44" y="42" z="2.55"/>
+                <gtpoint id="114" x="46" y="42" z="1.7"/>
+                <gtpoint id="115" x="48" y="42" z="0.85000002"/>
+                <gtpoint id="116" x="50" y="42" z="0"/>
+                <gtpoint id="117" x="50" y="44" z="0"/>
+                <gtpoint id="118" x="48" y="44" z="0"/>
+                <gtpoint id="119" x="46" y="44" z="0"/>
+                <gtpoint id="120" x="44" y="43" z="0"/>
+                <gtpoint id="121" x="42" y="43" z="0"/>
+                <gtpoint id="122" x="40" y="44" z="0"/>
+                <gtpoint id="123" x="38" y="44" z="0"/>
+                <gtpoint id="124" x="36" y="44" z="0"/>
+                <gtpoint id="125" x="36" y="42" z="0"/>
+                <gtpoint id="126" x="36" y="40" z="0"/>
+                <gtpoint id="127" x="34" y="40" z="0"/>
+                <gtpoint id="128" x="32" y="40" z="0"/>
+                <gtpoint id="129" x="30" y="42" z="0"/>
+                <gtpoint id="130" x="28" y="42" z="0"/>
+                <gtpoint id="131" x="26" y="42" z="0"/>
+                <gtpoint id="132" x="24" y="44" z="0"/>
+                <gtpoint id="133" x="24" y="46" z="0"/>
+                <gtpoint id="134" x="24" y="48" z="0"/>
+                <gtpoint id="135" x="24" y="50" z="0"/>
+                <gtpoint id="136" x="22" y="44" z="0"/>
+                <gtpoint id="137" x="20" y="44" z="0"/>
+                <gtpoint id="138" x="20" y="43" z="0"/>
+                <gtpoint id="139" x="22" y="43" z="0"/>
+                <gtpoint id="140" x="24" y="43" z="0"/>
+                <gtpoint id="141" x="24" y="41" z="0"/>
+                <gtpoint id="142" x="22" y="40" z="0"/>
+                <gtpoint id="143" x="20" y="40" z="0"/>
+                <gtpoint id="144" x="18" y="40" z="0"/>
+                <gtpoint id="145" x="16" y="40" z="0"/>
+                <gtpoint id="146" x="14" y="40" z="0"/>
+                <gtpoint id="147" x="13" y="39" z="0"/>
+                <gtpoint id="148" x="13" y="37" z="1.02"/>
+                <gtpoint id="149" x="13" y="35" z="1.87"/>
+                <gtpoint id="150" x="13" y="33" z="2.72"/>
+            </gtpoints>
+            <stairs>
+                <stair type="0">
+                    <part connect="false" x1="49.400002" y1="41.799999" z1="0" x2="42.700001" y2="41.799999" z2="3.4000001" w="1.8000001"/>
+                </stair>
+                <stair type="0">
+                    <part connect="false" x1="66.300003" y1="49.100002" z1="0" x2="63.5" y2="49.100002" z2="1.7" w="1.4"/>
+                    <part connect="false" x1="62.5" y1="49.799999" z1="1.7" x2="62.5" y2="46.799999" z2="1.7" w="2"/>
+                    <part connect="false" x1="63.5" y1="47.5" z1="1.7" x2="66.300003" y2="47.5" z2="3.4000001" w="1.4"/>
+                </stair>
+                <stair type="0">
+                    <part connect="false" x1="13.1" y1="39.299999" z1="0" x2="13.1" y2="31.6" z2="3.4000001" w="1.5"/>
+                </stair>
+                <stair type="0">
+                    <part connect="false" x1="12.1" y1="49" z1="0" x2="15.1" y2="49" z2="1.7" w="1.4"/>
+                    <part connect="false" x1="16" y1="49.700001" z1="1.7" x2="16" y2="46.700001" z2="1.7" w="1.8000001"/>
+                    <part connect="false" x1="15.1" y1="47.400002" z1="1.7" x2="12.1" y2="47.400002" z2="3.4000001" w="1.4"/>
+                </stair>
+                <stair type="0">
+                    <part connect="false" x1="16.9" y1="11" z1="0" x2="16.9" y2="8.1000004" z2="1.7" w="1.4"/>
+                    <part connect="false" x1="17.6" y1="7.2000003" z1="1.7" x2="14.5" y2="7.2000003" z2="1.7" w="1.8000001"/>
+                    <part connect="false" x1="15.2" y1="8.1000004" z1="1.7" x2="15.2" y2="11" z2="3.4000001" w="1.4"/>
+                </stair>
+            </stairs>
+            <elevators>
+                <elevator cx="65.400002" cy="45.400002" width="1.8000001" depth="2.2" height="0" rotation="3.1415927"/>
+            </elevators>
+        </floor>
+        <floor atHeight="10.8" height="3.4000001" name="3. Stock" groupId="0">
+            <outline>
+                <polygon name="base" method="0" outdoor="false">
+                    <point x="1.2" y="43.100002"/>
+                    <point x="0.60000002" y="43.100002"/>
+                    <point x="0.60000002" y="50.200001"/>
+                    <point x="76.900002" y="50.200001"/>
+                    <point x="76.900002" y="31.6"/>
+                    <point x="18" y="31.6"/>
+                    <point x="18" y="0.69999999"/>
+                    <point x="1.2" y="0.69999999"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="42.700001" y="40.799999"/>
+                    <point x="49.400002" y="40.799999"/>
+                    <point x="49.400002" y="42.799999"/>
+                    <point x="42.700001" y="42.799999"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="12.1" y="40.799999"/>
+                    <point x="22.9" y="40.799999"/>
+                    <point x="22.9" y="42.799999"/>
+                    <point x="12.1" y="42.799999"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="14.5" y="6.2000003"/>
+                    <point x="18" y="6.2000003"/>
+                    <point x="18" y="11"/>
+                    <point x="14.5" y="11"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="12.1" y="46.600002"/>
+                    <point x="17.1" y="46.600002"/>
+                    <point x="17.1" y="50.200001"/>
+                    <point x="12.1" y="50.200001"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="61.5" y="46.600002"/>
+                    <point x="66.300003" y="46.600002"/>
+                    <point x="66.300003" y="50.200001"/>
+                    <point x="61.5" y="50.200001"/>
+                </polygon>
+                <polygon name="new" method="1" outdoor="false">
+                    <point x="12.3" y="31.6"/>
+                    <point x="13.900001" y="31.6"/>
+                    <point x="13.900001" y="39.299999"/>
+                    <point x="12.3" y="39.299999"/>
+                </polygon>
+                <polygon name="luft" method="1" outdoor="false">
+                    <point x="1.2" y="40.799999"/>
+                    <point x="10" y="40.799999"/>
+                    <point x="10" y="42.799999"/>
+                    <point x="1.2" y="42.799999"/>
+                </polygon>
+            </outline>
+            <regions/>
+            <obstacles>
+                <wall material="1" type="1" x1="42.299999" y1="39.299999" x2="42.299999" y2="31.6" thickness="0.25"/>
+                <wall material="1" type="1" x1="44.100002" y1="39.299999" x2="44.100002" y2="31.6" thickness="0.25"/>
+                <wall material="1" type="1" x1="12.2" y1="6.2000003" x2="12.2" y2="12.7" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.969697" width="1.3" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="12.2" y1="11" x2="14.400001" y2="11" thickness="0.25"/>
+                <wall material="1" type="1" x1="14.400001" y1="11" x2="14.400001" y2="6.2000003" thickness="0.25"/>
+                <wall material="1" type="1" x1="4.3000002" y1="25.800001" x2="4.3000002" y2="24.1" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="1.2" y1="25.800001" x2="10" y2="25.800001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.10227273" width="1" height="2.0999999" io="false" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.82954544" width="1" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="1.2" y1="24.1" x2="10" y2="24.1" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="10.5" y1="48.100002" x2="10.5" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="12.2" y1="46.600002" x2="17.1" y2="46.600002" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="12.2" y1="46.600002" x2="12.2" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="10.5" y1="44.5" x2="17.1" y2="44.5" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.93939406" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.59090918" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.030303003" width="1.3" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="14.7" y1="46.600002" x2="14.7" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="17.1" y1="50.200001" x2="17.1" y2="44.5" thickness="0.25"/>
+                <wall material="3" type="1" x1="25" y1="44.5" x2="25" y2="50.200001" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="41.100002" y1="50.200001" x2="41.100002" y2="44.5" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="50.700001" y1="50.200001" x2="50.700001" y2="44.5" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="61.5" y1="46.600002" x2="66.400002" y2="46.600002" thickness="0.25"/>
+                <wall material="1" type="1" x1="66.400002" y1="46.600002" x2="66.400002" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="64.400002" y1="46.600002" x2="64.400002" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="68.099998" y1="50.200001" x2="68.099998" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="25.5" y1="39.299999" x2="25.5" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.28571394" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="18" y1="0.69999999" x2="1.2" y2="0.69999999" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="0.60000002" y1="50.200001" x2="0.60000002" y2="43.100002" thickness="0.30000001"/>
+                <wall material="1" type="1" x1="0.60000002" y1="43.100002" x2="5.0999999" y2="43.100002" thickness="0.30000001"/>
+                <wall material="1" type="1" x1="61.5" y1="50.200001" x2="61.5" y2="44.5" thickness="0.25"/>
+                <wall material="1" type="1" x1="12.2" y1="12.7" x2="18" y2="12.7" thickness="0.25"/>
+                <wall material="1" type="1" x1="18" y1="6.2000003" x2="12.2" y2="6.2000003" thickness="0.25"/>
+                <wall material="3" type="1" x1="10" y1="40.799999" x2="10" y2="25.800001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.073967077" width="1" height="2.0999999" io="false" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.87333328" width="1" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="29.700001" y1="39.299999" x2="29.700001" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.1688311" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="38" y1="39.299999" x2="38" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.1688311" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="47.100002" y1="39.299999" x2="47.100002" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.1688311" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="54.799999" y1="39.299999" x2="54.799999" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.1688311" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="63.200001" y1="39.299999" x2="63.200001" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.1688311" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="70.5" y1="39.299999" x2="70.5" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.1688311" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="33.799999" y1="39.299999" x2="33.799999" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="67.400002" y1="39.299999" x2="67.400002" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="59.100002" y1="39.299999" x2="59.100002" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="50.600002" y1="39.299999" x2="50.600002" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="1.2" y1="8.4000006" x2="10" y2="8.4000006" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="48.299999" y1="50.200001" x2="48.299999" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.82456142" width="1" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="45.900002" y1="44.5" x2="45.900002" y2="50.200001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.186441" width="1" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="31.5" y1="44.5" x2="31.5" y2="50.200001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.19298282" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="33.900002" y1="50.200001" x2="33.900002" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.80701721" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="41.100002" y1="44.5" x2="25.5" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.96153837" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.41666663" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.53205138" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.6538462" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.044871837" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="25.5" y1="44.5" x2="25.5" y2="50.200001" thickness="0.30000001"/>
+                <wall material="3" type="1" x1="17.4" y1="44.5" x2="23.1" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.50877213" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="23.1" y1="44.5" x2="23.1" y2="50.200001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.32203406" width="1" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.88135576" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="20.6" y1="50.200001" x2="20.6" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.11864417" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="17.4" y1="46.200001" x2="20.6" y2="46.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="20.6" y1="47.299999" x2="23.1" y2="47.299999" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="5.0999999" y1="42.799999" x2="5.0999999" y2="50.200001" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.081081375" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.83783782" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="12.1" y1="25.800001" x2="18" y2="25.800001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="51.100002" y1="50.200001" x2="51.100002" y2="44.5" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="10" y1="24.1" x2="10" y2="0.69999999" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.051282082" width="1" height="2.0999999" io="false" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.7136752" width="1" height="2.0999999" io="false" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.62393165" width="1" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="1.2" y1="40.799999" x2="10" y2="40.799999" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="68.300003" y1="44.5" x2="76.900002" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.081395015" width="1" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="56" y1="50.200001" x2="56" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.813559" width="1" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="61.299999" y1="44.5" x2="64.400002" y2="44.5" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.86206847" width="1" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="8.1999998" y1="25.800001" x2="8.1999998" y2="24.1" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.11764745" width="1" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="12.2" y1="5.9000001" x2="12.2" y2="0.69999999" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.87037039" width="1" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="5.0999999" y1="44.5" x2="10.2" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.0845071" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="13.900001" y1="31.6" x2="18" y2="31.6" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="41.5" y1="44.5" x2="41.5" y2="50.200001" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="22.4" y1="39.299999" x2="22.4" y2="31.6" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.1688311" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="1" type="1" x1="13.900001" y1="31.6" x2="13.900001" y2="39.299999" thickness="0.15000001"/>
+                <wall material="3" type="1" x1="13.900001" y1="39.299999" x2="76.900002" y2="39.299999" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.0099999998" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.14603175" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.1936508" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.30634919" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.32857144" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.3936508" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.47460315" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.49047616" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.5714286" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.60000002" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.70634919" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.72698414" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.83809531" width="0.89999998" height="2.0999999" io="true" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.86190486" width="0.89999998" height="2.0999999" io="true" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.97301596" width="1" height="2.0999999" io="true" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="10" y1="33.100002" x2="1.2" y2="33.100002" thickness="0.15000001"/>
+                <wall material="6" type="1" x1="0.60000002" y1="50.200001" x2="76.900002" y2="50.200001" thickness="0.15000001"/>
+                <wall material="6" type="1" x1="76.900002" y1="50.200001" x2="76.900002" y2="31.6" thickness="0.15000001"/>
+                <wall material="6" type="1" x1="76.900002" y1="31.6" x2="18" y2="31.6" thickness="0.15000001"/>
+                <wall material="6" type="1" x1="18" y1="31.6" x2="18" y2="0.69999999" thickness="0.15000001"/>
+                <wall material="6" type="1" x1="1.2" y1="0.69999999" x2="1.2" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="42.700001" y1="42.799999" x2="49.400002" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="49.400002" y1="42.799999" x2="49.400002" y2="40.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="49.400002" y1="40.799999" x2="42.700001" y2="40.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="12.1" y1="42.799999" x2="12.1" y2="40.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="12.1" y1="40.799999" x2="22.9" y2="40.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="22.9" y1="40.799999" x2="22.9" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="22.9" y1="42.799999" x2="12.1" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="5.0999999" y1="42.799999" x2="10" y2="42.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="10" y1="42.799999" x2="10" y2="40.799999" thickness="0.15000001"/>
+                <line material="5" type="3" x1="12.3" y1="39.299999" x2="12.3" y2="31.6" thickness="0.15000001"/>
+                <line material="5" type="3" x1="13.900001" y1="39.299999" x2="12.3" y2="39.299999" thickness="0.15000001"/>
+                <wall material="1" type="1" x1="42.299999" y1="34.900002" x2="44" y2="34.900002" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.87266093" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <line material="0" type="3" x1="12" y1="50.200001" x2="12" y2="48.200001" thickness="0.15000001"/>
+                <wall material="4" type="1" x1="11" y1="25.800001" x2="12.1" y2="25.800001" thickness="0.15000001"/>
+                <door material="2" type="1" x1="10" y1="25.800001" x2="11" y2="25.800001" height="2.0999999" swap="false"/>
+                <wall material="3" type="1" x1="17.4" y1="50.200001" x2="17.4" y2="44.5" thickness="0.2"/>
+                <wall material="3" type="1" x1="51.100002" y1="44.5" x2="61.299999" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.93269217" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.41346154" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="3" type="1" x1="41.5" y1="44.5" x2="50.700001" y2="44.5" thickness="0.15000001">
+                    <door type="1" lock="2" material="2" x01="0.77905524" width="0.89999998" height="2.0999999" io="false" lr="false"/>
+                    <door type="1" lock="2" material="2" x01="0.66749942" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                    <door type="1" lock="2" material="2" x01="0.41202295" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="68.300003" y1="44.5" x2="66.400002" y2="44.5" thickness="0.25">
+                    <door type="1" lock="2" material="2" x01="0.21052694" width="1.4" height="2.0999999" io="true" lr="false"/>
+                </wall>
+                <wall material="3" type="1" x1="12.2" y1="5.9000001" x2="18" y2="5.9000001" thickness="0.2"/>
+                <wall material="3" type="1" x1="10.2" y1="44.5" x2="10.2" y2="50.200001" thickness="0.2">
+                    <door type="1" lock="2" material="2" x01="0.8070178" width="0.89999998" height="2.0999999" io="false" lr="true"/>
+                </wall>
+                <wall material="1" type="1" x1="10.5" y1="49.200001" x2="10.5" y2="50.200001" thickness="0.25"/>
+            </obstacles>
+            <gtpoints>
+                <gtpoint id="100" x="64" y="44" z="0"/>
+                <gtpoint id="101" x="62" y="44" z="0"/>
+                <gtpoint id="102" x="60" y="44" z="0"/>
+                <gtpoint id="103" x="58" y="44" z="0"/>
+                <gtpoint id="104" x="56" y="44" z="0"/>
+                <gtpoint id="105" x="54" y="44" z="0"/>
+                <gtpoint id="106" x="52" y="42" z="0"/>
+                <gtpoint id="107" x="50" y="40" z="0"/>
+                <gtpoint id="108" x="48" y="40" z="0"/>
+                <gtpoint id="109" x="46" y="40" z="0"/>
+                <gtpoint id="110" x="44" y="40" z="0"/>
+                <gtpoint id="111" x="42" y="40" z="0"/>
+                <gtpoint id="112" x="42" y="42" z="0"/>
+                <gtpoint id="151" x="13" y="31" z="0"/>
+                <gtpoint id="152" x="11" y="29" z="0"/>
+                <gtpoint id="153" x="13" y="29" z="0"/>
+                <gtpoint id="154" x="13" y="27" z="0"/>
+                <gtpoint id="155" x="11" y="27" z="0"/>
+                <gtpoint id="156" x="11" y="24" z="0"/>
+                <gtpoint id="157" x="13" y="22" z="0"/>
+                <gtpoint id="158" x="13" y="20" z="0"/>
+                <gtpoint id="159" x="15" y="18" z="0"/>
+            </gtpoints>
+            <stairs/>
+            <elevators/>
+        </floor>
+    </floors>
+</map>

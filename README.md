@@ -6,3 +6,5 @@ Naming of trajectory files:
 - Path0_30_OF.html: Path 0 using every 30th GT and method optimal-forward
 
 Plots are made using [Plotly](https://plotly.com/python/).
+
+The `building.xml` file contains a map of the building which can be parsed using the [IndoorMapParser](https://github.com/simpleLoc/IndoorMapParser).
