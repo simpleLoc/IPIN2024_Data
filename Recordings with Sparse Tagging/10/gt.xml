@@ -1,0 +1,13 @@
+<gtpaths>
+    <gtpath name="Path0">
+        <gtpointref id="100"/>
+        <gtpointref id="100"/>
+        <gtpointref id="110"/>
+        <gtpointref id="120"/>
+        <gtpointref id="130"/>
+        <gtpointref id="137"/>
+        <gtpointref id="147"/>
+        <gtpointref id="157"/>
+        <gtpointref id="159"/>
+    </gtpath>
+</gtpaths>

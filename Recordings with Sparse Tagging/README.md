@@ -1,4 +1,4 @@
 The format of the recordings is described here: [SensorReadoutApp](https://github.com/simpleLoc/SensorReadoutApp)
 
-The ground truth xml contains each ground truth point with an unique id.
-The path is described by a list of ground truth ids.
+The `gt.xml` file within the directories contains the ground truth path with the unique ids of the ground truth points in the order of tagging.
+The position of the points is delcared in the `full_gt.xml` file in this directory or in the `building.xml` of the upper directory.
