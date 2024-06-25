@@ -9,3 +9,7 @@ Plots are made using [Plotly](https://plotly.com/python/).
 
 The `building.xml` file contains a map of the building which can be parsed using the [IndoorMapParser](https://github.com/simpleLoc/IndoorMapParser).
 Using the `building.xml` file we create a boundary mesh that constraints our particle movement. I additionally exported this mesh to `building.obj` for easier access.
+
+The recordings used for the evaluation can be found in the `Recordings with Sparse Tagging` directory.
+The result runs of `Table I` can be found in the `Particle Amount Plots` directory.
+The result runs of `Table II` can be found in the `Ground Truth Sparsity` directory.
