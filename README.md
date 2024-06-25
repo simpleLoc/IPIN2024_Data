@@ -8,3 +8,4 @@ Naming of trajectory files:
 Plots are made using [Plotly](https://plotly.com/python/).
 
 The `building.xml` file contains a map of the building which can be parsed using the [IndoorMapParser](https://github.com/simpleLoc/IndoorMapParser).
+Using the `building.xml` file we create a boundary mesh that constraints our particle movement. I additionally exported this mesh to `building.obj` for easier access.
